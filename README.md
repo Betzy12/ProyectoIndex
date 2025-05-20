@@ -1,10 +1,11 @@
 <HTML>
 <HEAD>
-<TITLE>Portada</TITLE>
+
 </HEAD>
 
 
 <BODY>
+   <MARQUEE>CENTRO DE ESTUDIOS DE BACHILLERATO CEB 5/11</MARQUEE>
 <CENTER><H1>Paginas web</H1></CENTER>
 <HR>
 <P>Betzy Guadalupe Martinez Alvarez, Angeles Francisca Ortega Mata, Jessica Marlene Torres Guerra, Diego Francisco Faz Jasso y Rogelio Vazquez Herrera
