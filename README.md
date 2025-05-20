@@ -13,7 +13,7 @@
 <P>Paginas Web.
 <P>602.
 
-<img src="logo ceb.JPG">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvXTV_RGtLKkZYQYkoIw1BuZAOL3FHGYSPw&s">
 
 </BODY>
 </HTML>
