@@ -13,8 +13,12 @@
 <P>Ramiro Reyna Torres.
 <P>Paginas Web.
 <P>602.
+<P></P>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvXTV_RGtLKkZYQYkoIw1BuZAOL3FHGYSPw&s">
-
-</BODY>
-</HTML>
+<ul> 
+     <a href="">pagina 1</a>
+     <a href="">pagina 2</a>
+     <a href="">pagina 3</a>
+     <a href="">pagina 4</a>
+     <a href="">pagina 5</a>
